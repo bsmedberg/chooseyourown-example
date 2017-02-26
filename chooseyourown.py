@@ -1,5 +1,5 @@
 """
-An adventure planting a tree.
+An text-only adventure game written in Python.
 """
 
 import random
