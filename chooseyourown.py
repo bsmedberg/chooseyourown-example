@@ -181,8 +181,8 @@ rooms = {
     15: {
         "description": "You are in the kitchen.",
         "paths": [
+            ("E", "Go East to the pantry.", 16),
             ("S", "Go South to the dining room", 10),
-            ("W", "Go West to the pantry.", 16),
         ],
     },
     16: {
